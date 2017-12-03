@@ -1,0 +1,5 @@
+ksystraycmd5 (1.0.0-0) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Leszek Lesner <leszek@zevenos.com>  Sun, 03 Dec 2017 12:03:20 +0100
