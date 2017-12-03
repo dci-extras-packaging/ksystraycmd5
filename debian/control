@@ -7,6 +7,7 @@ Build-Depends: cmake,
                extra-cmake-modules,
                libkf5plasma-dev,
                libkf5windowsystem-dev,
+               libqt5x11extras5-dev,
                pkg-kde-tools
 Standards-Version: 3.9.6
 Homepage: https://cgit.kde.org/scratch/hein/ksystraycmd.git/
