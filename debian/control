@@ -12,7 +12,7 @@ Standards-Version: 3.9.6
 Homepage: https://cgit.kde.org/scratch/hein/ksystraycmd.git/
 
 Package: ksystraycmd5
-Architecture: all
+Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Put app windows in the tray for Plasma 5
  Ksystraycmd allows hiding application windows in the systemtray.
